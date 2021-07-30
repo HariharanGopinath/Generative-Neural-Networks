@@ -10,3 +10,6 @@ generative model which is capable of extracting features correlated
 to binary labels in the data and structuring it in a latent
 subspace which is easy to interpret. Here, we implement this
 model to generate images of digits between 0 and 9.
+
+
+Detailed Maltab script can be found in the above files with report
